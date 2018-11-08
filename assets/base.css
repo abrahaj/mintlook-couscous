@@ -79,7 +79,7 @@ h6 { font-size: 1.0em; }
 p, pre, table, ul, ol, blockquote, figure, fieldset { margin: 10px 0 25px }
 
 /* Inline elements */
-a { color: #0f07ec; text-decoration: underline; cursor: pointer; }
+a { color: #ae4dec; text-decoration: underline; cursor: pointer; }
 /*@media not print { a:visited { color: #7E38FF; }}*/
 figcaption, address, table caption { color: #595959; font-style: italic; font-size: 0.9em; }
 
